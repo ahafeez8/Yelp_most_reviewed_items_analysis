@@ -14,7 +14,7 @@ Then we seperate out images from main dataset. Place the get_pics.py and photo_r
 
 Then perform object recognition using our trained model on AlexNet. Use test.py to train.
 ### Note: 
--Add bvlc_alexnet.npy into the object recognition folder. Get bvlc_alexnet.npy zippped here: https://drive.google.com/file/d/1hUB_w31W629n7Mqhi9iGtjSQUNSAA8hk/view?usp=sharing
+- Add bvlc_alexnet.npy into the object recognition folder. Get bvlc_alexnet.npy zippped here: https://drive.google.com/file/d/1hUB_w31W629n7Mqhi9iGtjSQUNSAA8hk/view?usp=sharing
 - Place data.tar into objectrecognition/models/ and get it from here: https://drive.google.com/file/d/1J4TXiIAQcWj8xljtaLlgGmYIoUSRVQzK/view?usp=sharing
 
 test.py releases a list of tags. Tag accuracy filter is kept at 70%. 
